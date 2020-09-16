@@ -4,7 +4,7 @@
 * `pip install pipenv`
 * `pipenv install django`
 * `pipenv shell`
-* ` cd mysite`
+* ` cd pollster`
 * `python manage.py migrate`
 * ` python manage.py createsuperuser`
 * `python manage.py runserver 8080`
