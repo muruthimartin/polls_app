@@ -1,6 +1,6 @@
 # polls_app usage
 * `git clone https://github.com/muruthimartin/polls_app.git`
-* `cd POLLSTER_PROJECT`
+* `cd polls_app`
 * `pip install pipenv`
 * `pipenv install django`
 * `pipenv shell`
